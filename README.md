@@ -31,6 +31,11 @@ User Query → Sanitize → Embed → FAISS Vector Search → Top-4 Chunks
                                                          Knowledge Base
 ```
 
+## Demo
+
+![Legal AI Assistant Demo](gradio_demo.png)
+
+---
 ## Tech Stack
 
 | Component | Tool |
